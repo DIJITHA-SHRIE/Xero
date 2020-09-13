@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_twotone_home_24"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_trips"
+        android:icon="@drawable/ic_twotone_business_center_24"
+        android:title="@string/title_trips" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_twotone_person_outline_24"
+        android:title="@string/title_profile" />
+
+    <item
+        android:id="@+id/navigation_departure"
+        android:icon="@drawable/ic_twotone_flight_takeoff_24"
+        android:title="@string/title_departure" />
+
+</menu>

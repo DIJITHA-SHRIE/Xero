@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Xero Flight</string>
+    <string name="app_name_tagline">Find your flight experience with us</string>
+    <string name="splash_button">Continue to take flight</string>
+    <string name="welcomeBack">Welcome Back</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signIn">Sign In</string>
+    <string name="search">Search</string>
+    <string name="forgotPassword">Forgot Password</string>
+    <string name="signUp">Sign Up</string>
+    <string name="title_activity_bottom_navigation">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_trips">My bookings</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_departure">Departure Flights</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">This is Departure Fragment .... Coming soon</string>
+    <string name="onetrip">One Trip</string>
+    <string name="round_trip">Round Trip</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="departDate">Select Depart Date</string>
+    <string name="returnDate">Return Date</string>
+    <string name="passanger">Passanger</string>
+    <string name="seat">Seat</string>
+    <string name="dateRange">Select Depart and Return Date</string>
+
+    <string-array name="seatArray">
+        <item>Economy</item>
+        <item>Business</item>
+    </string-array>
+</resources>

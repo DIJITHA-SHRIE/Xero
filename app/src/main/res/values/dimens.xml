@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="splash_logo_size">150dp</dimen>
+    <dimen name="title_size">30dp</dimen>
+    <dimen name="tagLine_size">20dp</dimen>
+    <dimen name="margin_login_LR">15dp</dimen>
+    <dimen name="margin_login_top">15dp</dimen>
+    <dimen name="radius">5dp</dimen>
+    <dimen name="width">0.2dp</dimen>
+    <dimen name="forgotPassword">15dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="textInputlayout_margin">12dp</dimen>
+    <dimen name="textInputlayout_text">13sp</dimen>
+    <dimen name="width_weight">0dp</dimen>
+    <dimen name="seat_margin_top">5dp</dimen>
+
+</resources>
